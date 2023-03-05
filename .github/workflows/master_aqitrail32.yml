@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AqiTrail32'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5A6C3A60B8524FF0AF1346B95E10D298 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_06F9473EED0B4710B08EB2BAD6A4DF20 }}
